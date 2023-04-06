@@ -3,8 +3,8 @@
 ### Setup & Installation
 ---
 
-** Prerequisites **
+**Prerequisites**
 1. Python Version 3.10.5
 
-Install necessary packages/modules:
-`pip install --upgrade openai`
+Install necessary packages/modules/dependecies:
+* `pip install --upgrade openai`
